@@ -4,3 +4,32 @@
 @import 'reset';
 
 // Write your code below:
+
+body{
+	width: 100%;
+}
+
+img{
+	width: 55%;
+	border: 5px solid;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 10px;
+	float: left;
+	height: 650px;
+}
+
+img:hover{
+	z-index:999;
+}
+
+p{
+	float: left;
+	width: 40%;
+	text-align: justify;
+}
+
+h1{
+	margin: 10px;
+}
+
